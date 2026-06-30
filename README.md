@@ -87,9 +87,9 @@ I specialize in transforming **Figma** designs into production-ready interfaces 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marco-011E&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-011&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ I specialize in transforming **Figma** designs into production-ready interfaces 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-011&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,7 +109,7 @@ I specialize in transforming **Figma** designs into production-ready interfaces 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marco-011&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -143,7 +143,7 @@ I specialize in transforming **Figma** designs into production-ready interfaces 
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00C4CC&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=marco-011&label=Profile+Views&color=00C4CC&style=for-the-badge"/>
 
 </p>
 
