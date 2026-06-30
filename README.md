@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="images/cv-profile.png" width="180" style="border-radius:50%;" alt="Sanal R">
+  <img src="cv-profile.png" width="180" style="border-radius:50%;" alt="Sanal R">
 </p>
 
 UX/UI Developer with **2+ years** of experience designing and developing responsive web applications.
