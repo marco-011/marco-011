@@ -1,42 +1,167 @@
+```markdown
+# Hi there 👋, I'm Sanal R
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=UX%2FUI+Developer;Front-End+Developer;Creating+Responsive+Web+Experiences;Always+Learning+Something+New!" alt="Typing SVG" />
 
-Next
-Reorder Sections
-Preview
-Markdown
-Copy
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is sanal R
-================================================================================================================================
+## 🚀 About Me
 
-UX/UI Developer | Front-End Developer
--------------------------------------
+I'm a **UX/UI Developer** with **2+ years of professional experience** designing and developing responsive, user-centric web applications.
 
-UX/UI Developer with 2 years of professional experience designing and developing responsive, user-centric web applications. Skilled in transforming Figma designs into production-ready interfaces using HTML5, CSS3, SCSS, JavaScript, and Bootstrap. Experienced in creating intuitive user experiences, reusable UI components, and responsive layouts while collaborating with cross-functional teams. Passionate about building accessible, high-performance web applications that enhance usability and business value.
+I specialize in transforming **Figma** designs into production-ready interfaces using **HTML5, CSS3, SCSS, JavaScript, and Bootstrap**. I enjoy creating clean, accessible, and high-performance digital experiences that improve usability and deliver business value.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://marco-011.github.io/update-cv-sanal-R/](http://marco-011.github.io/update-cv-sanal-R/)
-* ✉️  You can contact me at [sanalrattingal@gmail.com](mailto:sanalrattingal@gmail.com)
-* 🧠  I'm currently learning react
+- 🌍 Based in **Thiruvananthapuram, Kerala, India**
+- 💼 UX/UI Developer | Front-End Developer
+- 🌱 Currently learning **React.js**
+- 🎯 Passionate about UI Design & Front-End Development
+- 📧 Email: **sanalrattingal@gmail.com**
+- 🌐 Portfolio: **https://marco-011.github.io/update-cv-sanal-R/**
+
+---
+
+# 💻 Tech Stack
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,figma,git,github,vscode,react" />
 </p>
-<a href="https://www.github.com/Sanal R" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sanal R?logo=github&style=for-the-badge&color=ffffff&labelColor=ffffff" /></a>
-### Badges
 
-<b>My GitHub Stats</b>
+### Design Tools
 
-<a href="http://www.github.com/Sanal R"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanal R&stroke=000000&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=000000&currStreakLabel=14b8a6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+</p>
 
-<a href="https://github.com/Sanal R" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanal R&langs_count=10&title_color=14b8a6&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+# 💼 Professional Experience
 
-<div width="100%" align="center"><a href="https://github.com/Sanal R/sanal R marco-011" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanal R&repo=sanal R marco-011&title_color=14b8a6&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## UX/UI Developer
+**Fi-es Systems Pvt. Ltd.**
 
+- Developed responsive web interfaces using HTML5, CSS3, SCSS, JavaScript, and Bootstrap.
+- Converted Figma wireframes into production-ready web pages.
+- Built reusable UI components.
+- Collaborated with developers for pixel-perfect implementation.
+- Improved responsiveness and accessibility across multiple devices.
+- Contributed to enterprise web applications including POS systems.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Sanal R" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.behance.com/sanal R" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.dribbble.com/sanal R" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" alt="Dribble" title="Dribble" /> </picture> </a></p>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+# 🚀 Featured Project
+
+## 🛒 idzlink POS System
+
+- Responsive UI Development
+- User Interface Design
+- HTML5
+- CSS3
+- SCSS
+- JavaScript
+- Bootstrap
+- Responsive Layouts
+- UI Improvements
+
+---
+
+# 📂 Personal Projects
+
+### 🌐 Portfolio Website
+
+- Responsive Portfolio
+- Smooth Scrolling
+- Interactive Navigation
+- JavaScript Contact Form
+- Mobile Friendly
+
+### 🛍️ E-Commerce Product Page
+
+- Product Gallery
+- Product Filters
+- Add to Cart UI
+- Bootstrap Grid
+- Responsive Design
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/marco-011">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/sanal-r-a0932a388">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:sanalrattingal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://marco-011.github.io/update-cv-sanal-R/">
+<img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00C4CC&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Good design creates great experiences. Great code brings them to life."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0EA5E9&height=120&section=footer"/>
+```
