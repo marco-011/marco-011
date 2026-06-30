@@ -15,6 +15,10 @@
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="images/github_profile_avatar_512.png" width="180" style="border-radius:50%;" alt="Sanal R">
+</p>
+
 UX/UI Developer with **2+ years** of experience designing and developing responsive web applications.
 
 - 🌍 Thiruvananthapuram, Kerala, India
